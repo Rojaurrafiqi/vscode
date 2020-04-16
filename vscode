@@ -1,0 +1,22 @@
+jika pertama kali menginstall vscode, maka disarankan menggunakan exstension agar mempermudah pekerjaan. beberapa ekstension yang akan mempermudah
+pekerjaan kamu ketika ngoding php adalah :
+
+1. auto rename tag
+2. php intellephense
+3. php intellephanse for codeigneter (jika menggunakan CI)
+
+poin nomor 2 dan 3, dalam hal penulisan bisa saja salah. typo2 sedikit lah.
+
+jika menggunakan yang poin nomor 2 maka kamu harus melakukan setting juga. 
+
+cara settingnya adalah :
+
+ke menu file -> preference -> setting 
+
+ketika setting sudah dibuka, maka di kolom pencarian silahkan ketik 'php'
+dan pada 'php suggest basic' silahkan matikan centeng nya. hal ini agar php intellephense yang sudah di install tadi bisa berjalan.
+
+bonus : 
+
+di kolom pencarian menu setting, cari juga 'format' dan conteng auto save. hal ini tujuannya ketika di save project, formatnya automatis
+dirapikan.
